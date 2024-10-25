@@ -1,0 +1,10 @@
+C:\Users\Home\Desktop\GaySharp\GaySharp\bin\Debug\GaySharp.exe.config
+C:\Users\Home\Desktop\GaySharp\GaySharp\bin\Debug\GaySharp.exe
+C:\Users\Home\Desktop\GaySharp\GaySharp\bin\Debug\GaySharp.pdb
+C:\Users\Home\Desktop\GaySharp\GaySharp\obj\Debug\GaySharp.csproj.AssemblyReference.cache
+C:\Users\Home\Desktop\GaySharp\GaySharp\obj\Debug\GaySharp.Form1.resources
+C:\Users\Home\Desktop\GaySharp\GaySharp\obj\Debug\GaySharp.Properties.Resources.resources
+C:\Users\Home\Desktop\GaySharp\GaySharp\obj\Debug\GaySharp.csproj.GenerateResource.cache
+C:\Users\Home\Desktop\GaySharp\GaySharp\obj\Debug\GaySharp.csproj.CoreCompileInputs.cache
+C:\Users\Home\Desktop\GaySharp\GaySharp\obj\Debug\GaySharp.exe
+C:\Users\Home\Desktop\GaySharp\GaySharp\obj\Debug\GaySharp.pdb
